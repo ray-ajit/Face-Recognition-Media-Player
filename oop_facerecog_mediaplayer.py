@@ -1,8 +1,6 @@
 class FacePlayer():
     def __init__(self):
-        import vlc
-        import cv2
-        import face_recognition as fc
+        pass
 
     def userFace(self,img_path):
         self.img_path=img_path
